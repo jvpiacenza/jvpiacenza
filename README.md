@@ -4,6 +4,7 @@
 - **Nome:** João Victor Piacenza de Oliveira Andrade
 - **Idade:** 16 anos
 - **Cidade:** Presidente Prudente - SP
+- **GitHub:** https://github.com/jvpiacenza/jvpiacenza.git
 
 ## 💯 Objetivo Profissional
 Busco uma oportunidade como ****programador de back-end** em uma empresa que promova o aprendizado contínuo e o desenvolvimento de seus colaboradores. Meu objetivo é evoluir tecnicamente, assumindo novos desafios e contribuindo para um ambiente de trabalho que valorize o crescimento individual e a colaboração em equipe.
