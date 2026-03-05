@@ -11,7 +11,7 @@ Busco uma oportunidade como **programador de back-end** em uma empresa que promo
 
 ## 🗨 Idiomas
 - **Português:** Nativo
-- **Inglês:** Intermediário
+- **Inglês:** Básico
 
 ## 👨‍🎓 Formação Acadêmica
 - Curso Técnico em Desenvolvimento de Sistemas - Escola SENAI (Em andamento)
